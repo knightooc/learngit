@@ -4,3 +4,5 @@ git add
 git commit
 git 回滚练习
 git 多文件练习
+git 管理修改操作
+而不是文件本身
